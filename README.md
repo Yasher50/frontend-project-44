@@ -5,7 +5,7 @@
 
 #### 1. [Brain-even asciinema](https://asciinema.org/a/Tnhmg7b9dobktNS5VKrF1qpmx)
 
-#### 2. [Brain-calc asciinema]()
+#### 2. [Brain-calc asciinema](https://asciinema.org/a/8lR87zyMfew0Qu8jhci4Mrz33)
 
 #### 3. [Brain-gcd asciinema]()
 
