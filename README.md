@@ -7,7 +7,7 @@
 
 #### 2. [Brain-calc asciinema](https://asciinema.org/a/8lR87zyMfew0Qu8jhci4Mrz33)
 
-#### 3. [Brain-gcd asciinema]()
+#### 3. [Brain-gcd asciinema](https://asciinema.org/a/o0JqptTjeCjbrhz9wfXbSUeGl)
 
 #### 4. [Brain-progression asciinema]()
 
