@@ -9,6 +9,6 @@
 
 #### 3. [Brain-gcd asciinema](https://asciinema.org/a/o0JqptTjeCjbrhz9wfXbSUeGl)
 
-#### 4. [Brain-progression asciinema]()
+#### 4. [Brain-progression asciinema](https://asciinema.org/a/82tD9Jlion0ZhTKdYKnZhoBVZ)
 
-#### 5. [Brain-prime asciinema]()
+#### 5. [Brain-prime asciinema](https://asciinema.org/a/GhYRpr1RstA7xbE10rT8HIx8s)
